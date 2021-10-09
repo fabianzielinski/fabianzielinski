@@ -1,4 +1,4 @@
-### Hi there I'm Fabian Zieliński 👋
+## Hi there I'm Fabian Zieliński 👋
 
 ##  Frontend Developer | Curious about knowledge
 
