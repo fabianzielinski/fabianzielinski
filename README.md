@@ -1,6 +1,6 @@
 ## Hi there I'm Fabian Zieliński 👋
 
-##  Frontend Developer | Curious about knowledge
+###  Frontend Developer | Curious about knowledge
 
 <!--
 **fabianzielinski/fabianzielinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
